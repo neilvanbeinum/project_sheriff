@@ -106,3 +106,19 @@ hr {
   background-color: #afe5a5;
   margin: 0 0.5rem;
 }
+
+.intro-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.countdown {
+  display: inline-block;
+  padding: 0.5rem 2rem;
+  background-color: #e5a5e2;
+
+}
+.countdown-days {
+  font-weight: bold;
+}

@@ -6,11 +6,15 @@ layout: default
   <h1>Project Sheriff</h1>
 </header>
 
-I haven't bouldered for 20 years.
+<div class="intro-container">
+  <div>
+    <p>I haven't bouldered for 20 years.</p>
+    <p>Given two years, can I start again, beat a health condition, and climb harder than before?</p>
+    <p>This blog records my path to bouldering Font 7A outdoors.</p>
+  </div>
 
-Given two years, can I start again, beat a health condition, and climb harder than before?
-
-This blog records my path to bouldering Font 7A outdoors.
+  <%= render Countdown.new %>
+</div>
 
 <section>
   <h2>Recent posts</h2>
