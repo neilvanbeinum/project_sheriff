@@ -1,6 +1,6 @@
 ---
 layout: post
-category: climbingwall
+tag: climbingwall
 title: Alpine Outpost, Chiang Mai, Thailand
 ---
 
