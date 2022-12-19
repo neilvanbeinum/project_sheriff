@@ -1,7 +1,7 @@
 ---
 layout: post
 category: climbingwall
-title: Stonegoat Climbing, Bangkok
+title: Stonegoat Climbing, Bangkok, Thailand
 ---
 
 Visited Thursday 8 December, 2022.
