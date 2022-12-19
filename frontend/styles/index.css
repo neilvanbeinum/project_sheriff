@@ -76,12 +76,6 @@ img {
   width: 100%;
 }
 
-.wat img {
-  @media (max-width: 500px) {
-    width: 50%;
-  }
-}
-
 figure {
   margin: 2rem 0;
 }
@@ -113,12 +107,25 @@ hr {
   justify-content: space-between;
 }
 
+@media (max-width: 500px) {
+  .intro-container {
+    flex-direction: column;
+  }
+}
+
 .countdown {
   display: inline-block;
   padding: 0.5rem 2rem;
   background-color: #e5a5e2;
-
+  margin-left: 2rem;
 }
+
+@media (max-width: 500px) {
+  .countdown {
+    margin: 0;
+  }
+}
+
 .countdown-days {
   font-weight: bold;
 }
