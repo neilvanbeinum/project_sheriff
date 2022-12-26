@@ -8,6 +8,7 @@ This section of the site contains rougher notes about progress on the project.
 
 They're unlikely to be of interest to a reader but act as a record for me.
 
+* 26/12 - Climbed indoors in Hanoi (Vietclimb). Finally felt better three days ago. Short session, felt pumped.
 * 19/12 - Cat Ba island, Northern Vietnam. Feeling under the weather. Fatigued. Climbing is out for the time being. Was hoping to check out some of the outdoor climbing here but need to recover first. Felt somewhat disheartened by the last session - as I noted, maybe POTS is going to be too much of a barrier to my improvement.
 * 16/12 - session at Vietclimb.. power down quickly.. arms over head seems to get hard fast.. is POTS too much of a barrier above a certain level for me? Other factors: weight, finger and arm strength. Need to make the most of what I have / can do.
 * 13/12 - session at Stone Goat - not feeling strong, powering down quickly? Bit achy. Questioning how realistic the goal is... EDIT: last go on big red hold overhang - completed! Nothing left in tank.
