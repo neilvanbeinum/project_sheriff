@@ -1,3 +1,4 @@
+import "bridgetown-quick-search/dist"
 import "index.css"
 import "syntax-highlighting.css"
 

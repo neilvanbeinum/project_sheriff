@@ -129,3 +129,12 @@ hr {
 .countdown-days {
   font-weight: bold;
 }
+
+bridgetown-search-form [type="search"] {
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+bridgetown-search-results {
+  --link-color: var(--action-color);
+}

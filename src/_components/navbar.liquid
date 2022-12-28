@@ -1,6 +1,11 @@
 <nav>
   <ul>
-    <li><a href="{{ '/' | relative_url }}">Home</a></li>
-    <li><a href="{{ '/sheriff-notes' | relative_url }}">Notes</a></li>
+    <li>
+      <a href="{{ '/' | relative_url }}">Home</a>
+    </li>
+    <li>
+      <a href="{{ '/sheriff-notes' | relative_url }}">Notes</a>
+    </li>
+    {% render "bridgetown_quick_search/search", placeholder: "Search" %}
   </ul>
 </nav>
