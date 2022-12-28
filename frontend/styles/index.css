@@ -49,6 +49,7 @@ body > nav ul {
   list-style-type: none;
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   gap: 1.5rem;
   font-size: 1.3rem;
   font-weight: bold;
