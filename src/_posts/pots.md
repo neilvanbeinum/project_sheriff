@@ -1,6 +1,8 @@
 ---
 layout: post
 title: About my health condition (POTS)
+tag: backstory
+date: 1 Dec 2022
 ---
 
 In 2010 I was diagnosed with a condition called Postural Orthostatic Tachycardia Syndrome (POTS).

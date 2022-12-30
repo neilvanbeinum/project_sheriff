@@ -2,6 +2,7 @@
 layout: post
 tag: climbingwall
 title: Alpine Outpost, Chiang Mai, Thailand
+date: 27 Nov 2022
 ---
 
 Visited late November, 2022.

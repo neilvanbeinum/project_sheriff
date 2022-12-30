@@ -20,7 +20,7 @@ layout: default
   <h2>Recent posts</h2>
 
   <ul>
-    <% collections.posts.resources.each do |post| %>
+    <% collections.posts.resources.sort_by(&:date).reverse.each do |post| %>
       <li>
         <a href="<%= post.relative_url %>"><%= post.data.title %></a>
 

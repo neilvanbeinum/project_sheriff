@@ -2,6 +2,7 @@
 layout: post
 tag: climbingwall
 title: VietClimb, Hanoi, Vietnam
+date: 16 Dec 2022
 ---
 
 Visited early December, 2022.

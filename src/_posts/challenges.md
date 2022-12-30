@@ -2,11 +2,12 @@
 layout: post
 tag: backstory
 title: Project challenges
+date: 10 Dec 2022
 ---
 
-What could stop me from completing the project?
+There's a number of differences between climbing now and when I started. This post outlines some of the challenges I face. Also see the [advantages post](/advantages).
 
-<h2>Health condition</h2>
+<h2>A health condition</h2>
 
 Perhaps the most important factor is a health condition I experience called Postural Tachycardia Syndrome which annoyingly means I have a few different symptoms to battle to climb hard.
 
