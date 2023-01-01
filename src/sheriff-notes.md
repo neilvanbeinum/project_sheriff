@@ -8,6 +8,7 @@ This section of the site contains rougher notes about progress on the project.
 
 They're unlikely to be of interest to a reader but act as a record for me.
 
+* 1/1 - 30 minute run in Hoi An. Feels good to have been active.
 * 30/12 - The psyche is low.. feeling fairly sluggish and inactive. Could do with a run. In a cold climate at the moment which is not great for POTS - just want to lie down and keep warm. Last couple of sessions felt a bit strange - am I over an initial stage of noticeable improvement? Being abroad without a home-base also makes steady progress tricky. Aiming to do a run in the next couple of days.
 * 29/12 - A bit of exercise - hired a beaten up old bike with a pedal that didn't rotate properly and cycled for an hour.
 * 26/12 - Climbed indoors in Hanoi (Vietclimb). Finally felt better three days ago. Short session, felt pumped.
