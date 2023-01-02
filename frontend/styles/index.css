@@ -139,3 +139,20 @@ bridgetown-search-form [type="search"] {
 bridgetown-search-results {
   --link-color: var(--action-color);
 }
+
+.notes-list {
+  border-top: 1px solid var(--action-color);
+}
+
+ol {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ol li {
+  padding: 1rem 0;
+}
+
+ol li + li {
+  border-top: 1px solid lightgray;
+}
