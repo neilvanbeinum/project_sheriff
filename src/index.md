@@ -16,7 +16,7 @@ layout: default
   <%= render Countdown.new %>
 </div>
 
-<section>
+<div>
   <h2>Recent posts</h2>
 
   <ul>
@@ -30,4 +30,16 @@ layout: default
       </li>
     <% end %>
   </ul>
-</section>
+</div>
+
+<article>
+  <h2>Project Info</h2>
+
+  <h3>'Sheriff' - what?</h3>
+
+  <p>When setting the goal I had to look up the hardest problem I’d climbed. It turned out to be <a href="https://www.ukclimbing.com/logbook/crags/harrisons_rocks-57/the_sheriff-52682">The Sheriff at Harrison’s Rocks</a>.</p>
+
+  <h3>Why f7A?</h3>
+
+  <p>It’s one grade harder than the current grade for the Sheriff.</p>
+</article>
