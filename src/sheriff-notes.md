@@ -4,6 +4,7 @@ title:  "Sheriff notes"
 date:   2022-12-04 17:14:01 +0700
 
 notes:
+  - 6/1 - 20 minute run in Saigon. 3km walking. Despite tiredness level 1/5.
   - 1/1 - 30 minute run in Hoi An. Feels good to have been active.
   - 30/12 - The psyche is low.. feeling fairly sluggish and inactive. Could do with a run. In a cold climate at the moment which is not great for POTS - just want to lie down and keep warm. Last couple of sessions felt a bit strange - am I over an initial stage of noticeable improvement? Being abroad without a home-base also makes steady progress tricky. Aiming to do a run in the next couple of days.
   - 29/12 - A bit of exercise - hired a beaten up old bike with a pedal that didn't rotate properly and cycled for an hour.
