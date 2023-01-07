@@ -4,6 +4,7 @@ title:  "Sheriff notes"
 date:   2022-12-04 17:14:01 +0700
 
 notes:
+  - 7/1 - session at Saigon Climbing Centre, managed 3 V4s but the ones tried after felt so hard. Felt really frustrated with how quickly I tire after a few moves. Not sure how I can improve on that. 
   - 6/1 - 20 minute run in Saigon. 3km walking. Despite tiredness level 1/5.
   - 1/1 - 30 minute run in Hoi An. Feels good to have been active.
   - 30/12 - The psyche is low.. feeling fairly sluggish and inactive. Could do with a run. In a cold climate at the moment which is not great for POTS - just want to lie down and keep warm. Last couple of sessions felt a bit strange - am I over an initial stage of noticeable improvement? Being abroad without a home-base also makes steady progress tricky. Aiming to do a run in the next couple of days.
