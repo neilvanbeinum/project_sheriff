@@ -14,3 +14,5 @@ When I visited the wall was fairly small, but I see they're planning to expand i
 ![Alpine Outpost Climbing wall, Chiang Mai](/images/alpine-outpost-1.jpeg){:standalone}
 
 ![Alpine Outpost Climbing wall, Chiang Mai](/images/alpine-outpost-2.jpeg){:standalone}
+
+[Alpine Outpost website](https://www.facebook.com/thealpineoutpost/)

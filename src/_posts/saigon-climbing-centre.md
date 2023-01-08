@@ -20,3 +20,5 @@ I liked the friendly atmosphere here, with people pushing each other on.
 There's a Moonboard upstairs.
 
 ![One floor of the bouldering at Saigon Climbing Centre, Ho Chi Minh City](/images/saigon-climbing-centre.jpeg){:standalone}
+
+[Saigon Climbing Centre website](https://saigonclimbing.com/)

@@ -16,3 +16,5 @@ It's a huge centre. I visited midday and although there's several fans (includin
 ![Stonegoat Climbing wall, Bangkok](/images/stonegoat-1.jpeg){:standalone}
 
 The wall has a relative grading system and a massive selection of problems. [Alpine Outpost](/alpine-outpost) in Chiang Mai had a friendlier atmosphere, perhaps because it's smaller.
+
+[Stone Goat website](https://www.stonegoatclimb.com/)
