@@ -4,6 +4,8 @@ title:  "Sheriff notes"
 date:   2022-12-04 17:14:01 +0700
 
 notes:
+  - 24/1 - 25 min run
+  - 20/1 - 25 min run
   - 17/1 - 20 min run, planks and squats with backpack on Ko Lanta beach.
   - 16/1 - 20 min run and planks on Ko Lanta beach. Hope to find something to hang off here...
   - 9/1 - felt like crap (high humidity?) but got a 15 min run in, plus some body weight stuff, inlcuding 3x6 pull ups. Feel more with it now - it's done me good.
