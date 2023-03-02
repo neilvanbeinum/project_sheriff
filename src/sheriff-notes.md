@@ -4,6 +4,7 @@ title:  "Sheriff notes"
 date:   2022-12-04 17:14:01 +0700
 
 notes:
+  - 28/2 - 25 min run, hills
   - 27/2 - bouldering on Ko Tao
   - 26/2 - 25 min run
   - 24/1 - 25 min run
